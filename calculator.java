@@ -10,5 +10,9 @@ public class calculator{
 
         int s = b - a;
         System.out.println("Substraction is : "+ s);
+
+        int m = a*b;
+        System.out.println("Multiplication is : " + m);
+        
     }
 }
